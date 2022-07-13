@@ -27,17 +27,17 @@ This extension can be easily adjusted to change different elements (the style) o
 
 Extension in action: <br/>
 
-Inactive vs. Active Extension
-<img src="PageFontStyle Grayed Out.png" alt="PageFontStyle Extension Inactive" width="400"/>
+Inactive vs. Active Extension <br/>
+<img src="PageFontStyle Grayed Out.png" alt="PageFontStyle Extension Inactive" width="400"/> <br/>
 <img src="PageFontStyle Colored.png" alt="PageFontStyle Extension Active" width="400"/>
 
-Applying the Extension - Original:
+Applying the Extension - Original: <br/>
 <img src="Original.png" alt="Original Webpage" width="400"/>
 
-Applying the Extension - Green `h1`:
+Applying the Extension - Green `h1`: <br/>
 <img src="Change Green.png" alt="Webpage with h1 Green" width="400"/>
 
-Applying the Extension - Purple `h1`:
+Applying the Extension - Purple `h1`: <br/>
 <img src="Change Purple.png" alt="Webpage with h1 Purple" width="400"/>
 
 ## Credits
