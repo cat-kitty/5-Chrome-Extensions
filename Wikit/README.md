@@ -23,10 +23,10 @@ The extension will search the selected text on Wikipedia and display the Wikiped
 
 Extension in action: <br/>
 
-Context Menu
+Context Menu <br/>
 <img src="Wikit Search.png" alt="Wikit Search Extension in Context Menu" width="400"/>
 
-Popup
+Popup <br/>
 <img src="Wikit Popup.png" alt="Wikit searched will popup a new window" width="400"/>
 
 ## Credits
