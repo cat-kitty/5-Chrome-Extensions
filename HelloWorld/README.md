@@ -9,17 +9,17 @@ This extension uses JSON, HTML, CSS, JS and jQuery.
 ## Installation
 No installation is required, simply download the folder and save it on the computer that is usually not accessed. Then go to chrome://extensions/ and turn on "Developer Mode" and choose the "Load Unpacked" option. Select the folder of this extension and it will be ready to use in the toolbar.
 <br/>After upload, it should appear as below:<br/>
-![image](https://github.com/cat-kitty/ChromeExtension-HelloWorld/blob/main/Hello%20World%20Extension.png)
+![image](https://github.com/cat-kitty/5-Chrome-Extensions/blob/main/HelloWorld/Hello%20World%20Extension.png)
 
 ## How to Use
 This is a very simple Chrome extension. Enter text into the text area and it will be displayed alongside Hello.
 
 ### Appearance:
-![image](https://github.com/cat-kitty/ChromeExtension-HelloWorld/blob/9531c4bc85b4e58076ffb52c4c4926c1b0eafab3/Extension%20Pin.png)
+![image](https://github.com/cat-kitty/5-Chrome-Extensions/blob/main/HelloWorld/Extension%20Pin.png)
 
 Extension in action: <br/>
-![image](https://github.com/cat-kitty/ChromeExtension-HelloWorld/blob/main/Extension%20in%20Action%201.png)
-![image](https://github.com/cat-kitty/ChromeExtension-HelloWorld/blob/main/Extension%20in%20Action%202.png)
+![image](https://github.com/cat-kitty/5-Chrome-Extensions/blob/main/HelloWorld/Extension%20in%20Action%201.png)
+![image](https://github.com/cat-kitty/5-Chrome-Extensions/blob/main/HelloWorld/Extension%20in%20Action%202.png)
 
 ## Credits
 This extension was created based on Udemy's Chrome Extensions: Develop 5 chrome extensions from scratch lesson by Vishwas Gopinath.
