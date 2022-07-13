@@ -18,7 +18,7 @@ This is a very simple Chrome extension. Enter text into the text area and it wil
 ![image](https://github.com/cat-kitty/5-Chrome-Extensions/blob/main/HelloWorld/Extension%20Pin.png)
 
 Extension in action: <br/>
-![image](https://github.com/cat-kitty/5-Chrome-Extensions/blob/main/HelloWorld/Extension%20in%20Action%201.png)
+![image](https://github.com/cat-kitty/5-Chrome-Extensions/blob/main/HelloWorld/Extension%20in%20Action%201.png) <br/>
 ![image](https://github.com/cat-kitty/5-Chrome-Extensions/blob/main/HelloWorld/Extension%20in%20Action%202.png)
 
 ## Credits
