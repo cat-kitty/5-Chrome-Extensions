@@ -1,4 +1,4 @@
-# Budget Manager Extension
+# PageFontStyle Extension
 
 ## Motivation
 The goal of writing this extension is to get a basic understanding of making Chrome extensions.
@@ -19,6 +19,8 @@ After upload, it should appear as below:<br/>
 This is a very simple Chrome extension, however, it only works on the specified webpage (which has been set as https://developer.chrome.com/*) and grayed out on all other webpages.
 
 On the specified webpage, the icon of the Chrome extension will no longer be grayed out. Clicking open the extension will give the option to select a color and that color will be applied to all `h1` tags on the page when the button "Change" is clicked.
+
+This extension can be easily adjusted to change different elements (the style) of a webpage and can be applied to different webpages.
 
 ### Appearance:
 <img src="Extension Pin.png" alt="PageFontStyle Extension Pin" width="400"/>
