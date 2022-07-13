@@ -45,7 +45,7 @@ Budget Manager Notifications
 
 
 ## Credits
-This extension was created based on Udemy's Chrome Extensions: Develop 5 chrome extensions from scratch lesson by Vishwas Gopinath.
+This extension was created based on Udemy's Chrome Extensions: Develop 5 chrome extensions from scratch lesson by Vishwas Gopinath. (Extension 2 of 5)
 
 ## Footnotes:
 *This extension was created by Zhi Rong Cai on July 7, 2022. It can be found on the Github @cat-kitty. This project is considered complete and no updates are forseeable.*
